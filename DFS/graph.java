@@ -43,8 +43,6 @@ public class graph
 	void DFS(int v)
 	{
 		boolean visited[] = new boolean[V];
-		visited[v] = true;
-		
 		DFSUtil(v, visited);
 	}
 
