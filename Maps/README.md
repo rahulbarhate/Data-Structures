@@ -4,7 +4,6 @@
 
 Funtction | Description
 ----|--------
-
 boolean containsKey(Object key) |  Used to return True if for a specified key, mapping is present in the map.
 boolean containsValue(Object value) | Used to return true if one or more key is mapped to a specified value.
 Object get(Object key) | It is used to retrieve or fetch the value mapped by a particular key.
