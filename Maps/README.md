@@ -2,12 +2,12 @@
 
 ## HashMap
 
-Funtction | Description
---------|---
-boolean **containsKey(Object key)** |  Used to return True if for a specified key, mapping is present in the map.
-boolean **containsValue(Object value)** | Used to return true if one or more key is mapped to a specified value.
-Object **get(Object key)** | It is used to retrieve or fetch the value mapped by a particular key.
-**getOrDefault(Object key, V defaultValue)** |  This method returns the value to which the specified key is mapped, or defaultValue if this map contains no mapping for the key. 
+| Funtction | Description |
+|:--------|---|
+`boolean **containsKey(Object key)** `|  Used to return True if for a specified key, mapping is present in the map.
+`boolean **containsValue(Object value)** `| Used to return true if one or more key is mapped to a specified value.
+`Object **get(Object key)**` | It is used to retrieve or fetch the value mapped by a particular key.
+`**getOrDefault(Object key, V defaultValue)**` |  This method returns the value to which the specified key is mapped, or defaultValue if this map contains no mapping for the key. 
 
 # Map in C++ Standard Template Library (STL)
 
